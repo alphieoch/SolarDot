@@ -5,41 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15c9cb04-c33f-4572-aff3-0e927ac1e728" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solardot/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solardot/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solardot/components/AccountManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solardot/lib/polkadot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solardot/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_data/data.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_data/logs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_data/types.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_migrations/1721503093_created_Info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pocketbase.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/next.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solardot/components/RegionSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solardot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solardot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pages/api/example-response.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pages/api/route.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/data.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/data.db-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/data.db-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/logs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/logs.db-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/logs.db-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/pb_data/types.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/src/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solardot/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solardot/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/solardot/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +69,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/alphie/Final/solardot/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/alphie/Final2/SolarDot/solardot/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -124,6 +96,7 @@
       <updated>1721545161440</updated>
       <workItem from="1721545162766" duration="57000" />
       <workItem from="1721545222362" duration="6290000" />
+      <workItem from="1721555734331" duration="2674000" />
     </task>
     <servers />
   </component>
